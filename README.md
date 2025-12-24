@@ -49,5 +49,6 @@ If you wish to remove Vidnex from your system:
     * Since this is a custom application, Windows might show a blue warning screen.
     * Click **"More Info"** → **"Run Anyway"** to continue the installation.
 <img width="533" height="502" alt="Windows defender" src="https://github.com/user-attachments/assets/7126f0a4-7a30-46ee-b5a3-875c44f4796a" />
+
 * **Port 3000 Error?**
     * If the app closes immediately, check if you already have Vidnex running in the background. Close the old window and try again.
