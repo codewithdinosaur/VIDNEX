@@ -1,22 +1,24 @@
 # Vidnex - Installation Guide
+<img width="702" height="121" alt="image" src="https://github.com/user-attachments/assets/2fdb7af0-23a6-4908-a483-e749e3b9e5be" />
 
 
 This guide explains how to install and run the **Vidnex** application on Windows.
 
 ## 📦 What's Included
-* **Vidnex_Setup.exe** (Main Installer)
+* **Vidnex_Setup.zip** (Main Installer)
 
 ---
 
 ## 🛠️ How to Install
 
-1.  **Download** the `Vidnex_Setup.exe` file to your computer.
-2.  **Double-click** the file to launch the Setup Wizard.
-3.  Follow the on-screen prompts:
+1.  **Download** the `Vidnex_Setup.zip` folder to your computer.
+2.  **Extract the folder**
+3.  **Double-click** the file to launch the Setup Wizard.
+4.  Follow the on-screen prompts:
     * Select the destination folder (Default is recommended).
     * Ensure "Create a desktop shortcut" is checked.
-4.  Click **Install** and wait for the process to finish.
-5.  Click **Finish** to launch the application immediately.
+5.  Click **Install** and wait for the process to finish.
+6.  Click **Finish** to launch the application immediately.
 
 ---
 
