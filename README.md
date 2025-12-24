@@ -6,7 +6,7 @@ This guide explains how to install and run the **Vidnex** application on Windows
 
 ## 📦 What's Included
 * **Vidnex_Setup.zip** (Main Installer)
-
+**LINK**-https://mega.nz/file/ucsiFSSY#NrMYn_obLfVDd-hfMtpVtAmWt2u7uEUqMmmPXceH2Yk
 ---
 
 ## 🛠️ How to Install
