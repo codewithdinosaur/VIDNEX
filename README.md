@@ -17,7 +17,7 @@ This guide explains how to install and run the **Vidnex** application on Windows
     * Ensure "Create a desktop shortcut" is checked.
 4.  Click **Install** and wait for the process to finish.
 5.  Click **Finish** to launch the application immediately.
-<img width="1111" height="620" alt="powershell" src="https://github.com/user-attachments/assets/61899ead-1c28-468c-bc54-eae7c4382616" />
+
 <img width="533" height="502" alt="Windows defender" src="https://github.com/user-attachments/assets/7126f0a4-7a30-46ee-b5a3-875c44f4796a" />
 ---
 
@@ -30,7 +30,7 @@ This guide explains how to install and run the **Vidnex** application on Windows
     * A background server window will open (this powers the app).
     * Your default web browser (Chrome/Edge) will **automatically open** to the Vidnex interface.
 4.  **Important:** Do not close the background window while you are using the app, or the connection will be lost.
-
+<img width="1111" height="620" alt="powershell" src="https://github.com/user-attachments/assets/61899ead-1c28-468c-bc54-eae7c4382616" />
 ---
 
 ## 🗑️ How to Uninstall
