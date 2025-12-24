@@ -6,7 +6,7 @@ This guide explains how to install and run the **Vidnex** application on Windows
 
 ## 📦 What's Included
 * **Vidnex_Setup.zip** (Main Installer)
-**LINK**-(https://github.com/codewithdinosaur/VIDNEX/releases/download/v1.0.0/VIDNEX_SETUP.exe)
+**LINK**-(https://vidnex.vercel.app/)
 ---
 
 ## 🛠️ How to Install
