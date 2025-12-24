@@ -23,7 +23,7 @@ This guide explains how to install and run the **Vidnex** application on Windows
 
 ## 🚀 How to Use
 
-1.  Find the **Vidnex** icon <img width="100" height="100" alt="ChatGPT Image Dec 24, 2025, 03_13_32 PM" src="https://github.com/user-attachments/assets/0c93b9d2-a4ff-4b6b-a1c0-39b45e69812b" />
+1.  Find the **Vidnex** icon <img width="10" height="10" alt="ChatGPT Image Dec 24, 2025, 03_13_32 PM" src="https://github.com/user-attachments/assets/0c93b9d2-a4ff-4b6b-a1c0-39b45e69812b" />
  on your Desktop or Start Menu.
 2.  Double-click the icon to start the application.
 3.  **Two things will happen:**
